@@ -1,0 +1,62 @@
+/*
+Theme Name: Web Store
+Theme URI: https://tiagozanarde.dev
+Author: Tiago Zanarde
+Author URI: https://tiagozanarde.dev
+Description: This theme is for learning porposes only.
+Version: 1.0
+Requires at least: 5.6
+Tested up to: 5.9
+Requires PHP: 8.1
+Text Domain: web-store
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Tags: e-commerce, custom-menu, custom-logo, featured-images, footer-widgets, theme-options, right-sidebar
+*/
+
+.main-menu{
+    padding: 0;
+}
+
+.main-menu ul{
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 0;
+}
+
+.main-menu ul li{
+    display: inline;
+    margin: 0 5px 0 0;
+}
+
+.main-menu ul li:last-child{
+    margin: 0;
+}
+
+/* Footer - Footer Menu */
+.footer-menu ul, .footer-widgets ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+.footer-menu ul li{
+    display: inline;
+    margin: 0 10px 0 0;
+}
+
+.footer-menu ul li:last-child{
+    margin: 0;
+}
+
+.footer-menu ul li a{
+    color: #939393;
+    text-decoration: none;
+}
+
+.footer-menu ul li.current-menu-item a{
+    color: #ff9292;
+}

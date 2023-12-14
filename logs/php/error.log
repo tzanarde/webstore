@@ -1,0 +1,12 @@
+[13-Dec-2023 22:41:12 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 21
+[13-Dec-2023 22:41:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/webstore/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[13-Dec-2023 22:41:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/webstore/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[13-Dec-2023 22:41:13 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 21
+[13-Dec-2023 22:41:13 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 21
+[13-Dec-2023 22:41:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 24
+[13-Dec-2023 22:41:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 24
+[13-Dec-2023 22:41:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 22
+[13-Dec-2023 22:41:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/functions.php on line 22
+[13-Dec-2023 23:07:54 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/webstore/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[13-Dec-2023 23:12:31 UTC] PHP Parse error:  Unmatched ')' in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/index.php on line 51
+[13-Dec-2023 23:12:38 UTC] PHP Parse error:  syntax error, unexpected token "else" in /Users/tzanarde/Local Sites/webstore/app/public/wp-content/themes/web-store/index.php on line 53
